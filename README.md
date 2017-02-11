@@ -9,3 +9,4 @@ Part II
 assignment 1: WordNet {WordNet.java, SAP).java, Outcast.java}
 assignment 2: SeamCarver {SeamCarver.java}
 assignment 3: Baseball {BaseballElimination.java}
+assignment 4: Boggle {BoggleSolver.java}
