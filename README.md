@@ -5,6 +5,7 @@
 - assignment 3: Collinear Points {Point.java, BruteCollinearPoints.java, FastCollinearPoints.java}
 - assignment 4: 8Puzzle {Board.java, Solver.java}
 - assignment 5: KdTree {PointSET.java, KdTree.java}
+
 ## Part II
 - assignment 1: WordNet {WordNet.java, SAP).java, Outcast.java}
 - assignment 2: SeamCarver {SeamCarver.java}
